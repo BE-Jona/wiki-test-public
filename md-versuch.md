@@ -12,5 +12,5 @@
 | Zeile 3 spalte 1 | Zeile 3 spalte 2 | Zeile 3 spalte 3 | Zeile 3 spalte 4 | Zeile 3 spalte 5 |
 | Zeile 4 spalte 1 | Zeile 4 spalte 2 | Zeile 4 spalte 3 | Zeile 4 spalte 4 | Zeile 4 spalte 5 |
 
-![grafik.png](/.attachments/grafik-252ee82d-8435-46ca-8bd7-88c0e64fc2bf.png)
+![grafik.png](/media/grafik-252ee82d-8435-46ca-8bd7-88c0e64fc2bf.png)
 ![grafik2.png](/.attachments/Unbenannt.png)
